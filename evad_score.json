@@ -1,0 +1,16 @@
+{
+    "submission_name": "8-Bit Bias Bounty Baseline",
+    "score": 4.9193051354942385,
+    "metrics": {
+        "accuracy": {
+            "skin_tone": 0.22666666666666666,
+            "gender": 0.7383333333333333,
+            "age": 0.5346666666666666
+        },
+        "disparity": {
+            "skin_tone": 0.41467889908256883,
+            "gender": 0.09195522544199186,
+            "age": 0.6112695867443104
+        }
+    }
+}
